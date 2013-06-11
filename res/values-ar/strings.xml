@@ -9,19 +9,19 @@
 
     <!-- Do not change below when you translate -->
     <string-array name="category">
-        <item>All</item>
-        <item>ads</item>
-        <item>android</item>
-        <item>chrome</item>
-        <item>cloud</item>
-        <item>commerce</item>
-        <item>drive</item>
-        <item>generic</item>
-        <item>tv</item>
-        <item>plus</item>
-        <item>maps</item>
-        <item>primetime</item>
-        <item>youtube</item>
+        <item>الكل</item>
+        <item>اعلانات</item>
+        <item>اندرويد</item>
+        <item>كروم</item>
+        <item>الحوسبة السحابية</item>
+        <item>تجارة</item>
+        <item>جوجل دريف</item>
+        <item>جوجل جينيريك</item>
+        <item>تلفاز جوجل</item>
+        <item>جوجل بلس</item>
+        <item>خرائط</item>
+        <item>عروض رئيسية</item>
+        <item>يوتيوب</item>
     </string-array>
 
 </resources>
